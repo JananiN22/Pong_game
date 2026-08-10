@@ -1,7 +1,6 @@
 # Pong Game
 
-A classic Pong game built with Python's turtle graphics module, 
-created as part of Angela Yu's 100 Days of Python course on Udemy.
+A classic Pong game built with Python's turtle graphics module.
 
 ## Features
 - Object-oriented design (paddle, ball, scoreboard classes)
